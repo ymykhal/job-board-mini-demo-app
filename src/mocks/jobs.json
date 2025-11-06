@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "salaryRange": "$120,000 - $160,000",
+    "tags": ["React", "TypeScript", "JavaScript", "CSS", "HTML"],
+    "postedAt": "2025-11-01T08:00:00Z",
+    "description": "We're looking for a senior frontend developer to join our dynamic team. You'll be working on cutting-edge web applications using React and TypeScript."
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Engineer",
+    "company": "StartupXYZ",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salaryRange": "$100,000 - $140,000",
+    "tags": ["Node.js", "React", "MongoDB", "Express", "JavaScript"],
+    "postedAt": "2025-10-30T14:30:00Z",
+    "description": "Join our fast-growing startup as a full stack engineer. You'll work across the entire tech stack to build innovative products."
+  },
+  {
+    "id": "3",
+    "title": "DevOps Engineer",
+    "company": "CloudTech Solutions",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "salaryRange": "$110,000 - $150,000",
+    "tags": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux"],
+    "postedAt": "2025-10-28T10:15:00Z",
+    "description": "We need a DevOps engineer to help scale our cloud infrastructure. Experience with AWS and container orchestration required."
+  },
+  {
+    "id": "4",
+    "title": "React Native Developer",
+    "company": "MobileFirst Inc",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryRange": "$90,000 - $130,000",
+    "tags": ["React Native", "JavaScript", "iOS", "Android", "Mobile"],
+    "postedAt": "2025-10-25T16:45:00Z",
+    "description": "Remote position for an experienced React Native developer. Build cross-platform mobile applications for our growing user base."
+  },
+  {
+    "id": "5",
+    "title": "Backend Developer",
+    "company": "DataDriven Corp",
+    "location": "Seattle, WA",
+    "type": "Full-time",
+    "salaryRange": "$105,000 - $145,000",
+    "tags": ["Python", "Django", "PostgreSQL", "Redis", "API"],
+    "postedAt": "2025-10-23T09:20:00Z",
+    "description": "Backend developer position focusing on scalable API development using Python and Django. Experience with databases essential."
+  },
+  {
+    "id": "6",
+    "title": "UI/UX Designer",
+    "company": "DesignHub",
+    "location": "Los Angeles, CA",
+    "type": "Full-time",
+    "salaryRange": "$85,000 - $115,000",
+    "tags": ["Figma", "Sketch", "Adobe XD", "Prototyping", "User Research"],
+    "postedAt": "2025-10-20T13:10:00Z",
+    "description": "Creative UI/UX designer needed to create beautiful and intuitive user experiences. Strong portfolio and design tool expertise required."
+  },
+  {
+    "id": "7",
+    "title": "Data Scientist",
+    "company": "AI Innovations",
+    "location": "Boston, MA",
+    "type": "Full-time",
+    "salaryRange": "$125,000 - $170,000",
+    "tags": ["Python", "Machine Learning", "TensorFlow", "Pandas", "SQL"],
+    "postedAt": "2025-10-18T11:35:00Z",
+    "description": "Data scientist role focusing on machine learning model development. Strong background in statistics and Python programming required."
+  },
+  {
+    "id": "8",
+    "title": "Frontend Developer",
+    "company": "WebSolutions Ltd",
+    "location": "Chicago, IL",
+    "type": "Contract",
+    "salaryRange": "$75 - $95/hour",
+    "tags": ["Vue.js", "JavaScript", "CSS", "HTML", "Webpack"],
+    "postedAt": "2025-10-15T15:50:00Z",
+    "description": "6-month contract position for a frontend developer with Vue.js experience. Work on exciting client projects with a collaborative team."
+  },
+  {
+    "id": "9",
+    "title": "Mobile App Developer",
+    "company": "AppMakers Studio",
+    "location": "Miami, FL",
+    "type": "Part-time",
+    "salaryRange": "$40 - $60/hour",
+    "tags": ["Flutter", "Dart", "iOS", "Android", "Firebase"],
+    "postedAt": "2025-10-12T12:25:00Z",
+    "description": "Part-time mobile developer position using Flutter. Perfect for someone looking for flexible hours while working on innovative mobile apps."
+  },
+  {
+    "id": "10",
+    "title": "Cloud Architect",
+    "company": "Enterprise Solutions",
+    "location": "Dallas, TX",
+    "type": "Full-time",
+    "salaryRange": "$140,000 - $180,000",
+    "tags": ["AWS", "Azure", "Microservices", "Terraform", "Architecture"],
+    "postedAt": "2025-10-10T08:40:00Z",
+    "description": "Senior cloud architect role designing scalable cloud solutions. Lead technical decisions and mentor junior developers."
+  },
+  {
+    "id": "11",
+    "title": "QA Engineer",
+    "company": "QualityFirst Tech",
+    "location": "Denver, CO",
+    "type": "Full-time",
+    "salaryRange": "$80,000 - $110,000",
+    "tags": ["Selenium", "JavaScript", "Testing", "Automation", "QA"],
+    "postedAt": "2025-10-08T14:15:00Z",
+    "description": "QA engineer position focusing on test automation. Experience with Selenium and JavaScript testing frameworks preferred."
+  },
+  {
+    "id": "12",
+    "title": "Product Manager",
+    "company": "ProductVision Inc",
+    "location": "San Diego, CA",
+    "type": "Full-time",
+    "salaryRange": "$115,000 - $155,000",
+    "tags": ["Product Management", "Agile", "Analytics", "Strategy", "Leadership"],
+    "postedAt": "2025-10-05T10:55:00Z",
+    "description": "Product manager role defining product strategy and roadmaps. Work closely with engineering and design teams to deliver exceptional products."
+  },
+  {
+    "id": "13",
+    "title": "Cybersecurity Specialist",
+    "company": "SecureNet Solutions",
+    "location": "Washington, DC",
+    "type": "Full-time",
+    "salaryRange": "$120,000 - $160,000",
+    "tags": ["Cybersecurity", "Penetration Testing", "CISSP", "Security", "Compliance"],
+    "postedAt": "2025-10-03T09:30:00Z",
+    "description": "Cybersecurity specialist to strengthen our security posture. Conduct security assessments and implement security best practices."
+  },
+  {
+    "id": "14",
+    "title": "Java Developer",
+    "company": "JavaCorp Solutions",
+    "location": "Atlanta, GA",
+    "type": "Full-time",
+    "salaryRange": "$95,000 - $135,000",
+    "tags": ["Java", "Spring Boot", "Microservices", "Maven", "REST API"],
+    "postedAt": "2025-09-30T16:20:00Z",
+    "description": "Java developer position working on enterprise applications. Strong knowledge of Spring framework and microservices architecture required."
+  },
+  {
+    "id": "15",
+    "title": "Database Administrator",
+    "company": "DataManage Pro",
+    "location": "Phoenix, AZ",
+    "type": "Contract",
+    "salaryRange": "$80 - $100/hour",
+    "tags": ["MySQL", "PostgreSQL", "Database", "Performance Tuning", "Backup"],
+    "postedAt": "2025-09-28T13:45:00Z",
+    "description": "Contract DBA position managing multiple database systems. Optimize performance and ensure data integrity across our platforms."
+  },
+  {
+    "id": "16",
+    "title": "Game Developer",
+    "company": "GameStudio Entertainment",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryRange": "$85,000 - $125,000",
+    "tags": ["Unity", "C#", "Game Development", "3D Graphics", "Gaming"],
+    "postedAt": "2025-09-25T11:10:00Z",
+    "description": "Remote game developer position using Unity and C#. Join our team creating next-generation mobile and PC games."
+  },
+  {
+    "id": "17",
+    "title": "Blockchain Developer",
+    "company": "CryptoTech Innovations",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryRange": "$130,000 - $180,000",
+    "tags": ["Blockchain", "Solidity", "Ethereum", "Smart Contracts", "Web3"],
+    "postedAt": "2025-09-22T15:30:00Z",
+    "description": "Blockchain developer working on DeFi protocols and smart contracts. Strong understanding of Ethereum ecosystem required."
+  },
+  {
+    "id": "18",
+    "title": "Technical Writer",
+    "company": "DocuTech Solutions",
+    "location": "Portland, OR",
+    "type": "Part-time",
+    "salaryRange": "$45 - $65/hour",
+    "tags": ["Technical Writing", "Documentation", "API Documentation", "Markdown", "Communication"],
+    "postedAt": "2025-09-20T12:05:00Z",
+    "description": "Part-time technical writer creating clear documentation for developers. Experience with API documentation and technical communication essential."
+  },
+  {
+    "id": "19",
+    "title": "Machine Learning Engineer",
+    "company": "AI Research Labs",
+    "location": "Palo Alto, CA",
+    "type": "Full-time",
+    "salaryRange": "$145,000 - $200,000",
+    "tags": ["Machine Learning", "Python", "PyTorch", "Deep Learning", "AI"],
+    "postedAt": "2025-09-18T08:15:00Z",
+    "description": "ML engineer developing cutting-edge AI models. PhD preferred but not required. Work on groundbreaking research projects."
+  },
+  {
+    "id": "20",
+    "title": "Site Reliability Engineer",
+    "company": "ScaleOps Technologies",
+    "location": "Remote",
+    "type": "Remote",
+    "salaryRange": "$125,000 - $165,000",
+    "tags": ["SRE", "Kubernetes", "Monitoring", "Incident Response", "Automation"],
+    "postedAt": "2025-09-15T14:40:00Z",
+    "description": "SRE position ensuring high availability and performance of our services. Experience with monitoring tools and incident management required."
+  }
+]
