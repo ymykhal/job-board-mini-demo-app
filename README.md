@@ -34,25 +34,38 @@
 
 ## Run Locally
 
+1️⃣ Clone the repo
 ```bash
-# 1️⃣ Clone the repo
 git clone https://github.com/ymykhal/job-board-mini-demo-app.git
 cd job-board-mini-demo-app
-
-# 2️⃣ Install dependencies
+```
+2️⃣ Install dependencies
+```bash
 npm install
+```
 
-# 3️⃣ Start dev server
+3️⃣ Start dev server
+
+```bash
 npm run dev
+```
 Open http://localhost:5173.
 
-👨‍💻 Author
+---
 
-Yuriy Mykhalchuk
-Founder of Altura Codeworks https://alturacodeworks.com/ 
+🖋️ Credits
 
-🔗 LinkedIn https://www.linkedin.com/in/yuriy-mykhalchuk-b964ba10/
- · Upwork https://www.upwork.com/freelancers/~019fb7153779620a63
+Developed by Yuriy Mykhalchuk https://www.linkedin.com/in/yuriy-mykhalchuk-b964ba10/ 
+
+🌐 Links:
+
+🌍 Website: https://alturacodeworks.com
+
+💼 Upwork: https://www.upwork.com/agencies/alturacodeworks/
+
+💻 GitHub: https://github.com/ymykhal
+
+---
 
 📄 License
 
